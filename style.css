@@ -1,0 +1,146 @@
+body{
+  height: 600px;
+  width: auto;
+}
+.space1{
+  height: 400px;
+}
+a{
+  color:whitesmoke;
+  font-size: 20px;
+  font-family: 'Verdana';
+  display: block;
+  text-decoration: none;
+  padding: 14px 16px;
+
+}
+p1{
+  float:left;
+  display: block;
+  color: #3498DB;
+  font-family: 'Verdana';
+  padding:14px 16px;
+  font-size:20px;
+}
+li{
+  float:right;
+}
+
+ul{
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0px 0px;
+  padding: 0px 0px;
+  background-color: #212F3D;
+}
+
+h1{
+  text-align: center;
+  font-size: 45px;
+  color: whitesmoke;
+  font-family: 'Verdana';
+  background-color: rgba(15, 37, 51, 0.151);
+  background-size: 5px;
+}
+
+#arcosCabo{
+background-image: url(images/arco.jpg);
+padding: 75px 25px;
+background-position: 0px;
+background-size: 100%;
+}
+
+#Scuba{
+float: left;
+background-image: url(images/buceo.jpg);
+height: 250px;
+width: 300px;
+margin: 5px;
+padding: 10px 30px 65px 30px;
+border-radius: 10px;
+
+}
+
+#atv{
+float: left;
+background-image: url(images/atvbaja.jpg);
+height: 250px;
+width: 300px;
+margin: 5px;
+padding: 10px 30px 65px 30px;
+border-radius: 10px;
+background-position: 0px;
+
+}
+
+.divText{
+font-size: 40px;
+text-align: center;
+}
+
+
+#fishing{
+float: left;
+background-image: url(images/fishing.JPG);
+height: 250px;
+width: 300px;
+margin: 5px;
+padding: 10px 30px 65px 30px;
+border-radius: 10px;
+background-position: 0px;
+}
+
+#hiking{
+  float: left;
+  background-image: url(images/hiking.jpg);
+  height: 250px;
+  width: 300px;
+  margin: 5px;
+  padding: 10px 30px 65px 30px;
+  border-radius: 10px;
+  background-position: 0px;
+}
+
+.Cntnt{
+  color: whitesmoke;
+  background: rgb(114, 137, 160);
+  padding: 20px 30px 20px 30px;
+  display:block;
+  float: left;
+  margin: 5px;
+  width: 44.5%;
+  border-radius: 5px;
+}
+.Cntnt2{
+  color: whitesmoke;
+  background: rgb(114, 137, 160);
+  padding: 20px 30px 57px 30px;
+  margin: 5px;
+  display:block;
+  box-align: left;
+  float: left;
+  width: 44.5%;
+  border-radius: 5px;
+}
+.Cntnt3{
+  float:left;
+  font-size: 11px;
+  width: 500px;
+  padding-left: 10%;
+  margin-top: 8%;
+  margin-bottom: 10%;
+}
+
+.Cntnt4{
+  display: block;
+  float: left;
+  padding: 100px 300px;
+}
+footer{
+  background-color: #212F3D;
+  padding: 50px 60px;
+  color: whitesmoke;
+  text-align: left;
+  float:left;
+  width: 100%;
+}
